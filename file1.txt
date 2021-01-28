@@ -1,0 +1,3 @@
+This is the file for practicing git project
+this is the second line
+this is third line
